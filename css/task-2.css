@@ -1,4 +1,4 @@
-.list-item {
+.gallery-item {
   list-style-type: none;
 }
 
@@ -10,7 +10,7 @@
   gap: 48px 24px;
 }
 
-.img-item {
+.gallery-img {
   width: 360px;
   height: 300px;
 }
